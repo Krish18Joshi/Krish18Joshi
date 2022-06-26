@@ -4,17 +4,17 @@
 ## Pursuing BE-CSE from Chandigarh University!!
 
 # 💫About Me :
-🌏I feel very satisfied while doing our work.
-🔭 I am very committed towards my projects..
-🌏 I’m currently learning web development.
-♟️ I am good in innovating special software to solve a problem while we work.
-💻 I’m looking forward to collaborate with other creators and developers.
-🥅 2022 Goals: Focus on developing my skills and exploring new things.
+🌏I feel very satisfied while doing our work. <br>
+🔭 I am very committed towards my projects.<br>
+🌏 I’m currently learning web development.<br>
+♟️ I am good in innovating special software to solve a problem while we work.<br>
+💻 I’m looking forward to collaborate with other creators and developers.<br>
+🥅 2022 Goals: Focus on developing my skills and exploring new things.<br>
 🍔 Fun fact: I don't know what's goin' to happen tomorrow so enjoy today.
 
 
 # 💻Tech Stack
-<div align="center">
+<div align="center"> <br>
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
