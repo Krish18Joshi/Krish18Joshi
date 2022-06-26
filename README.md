@@ -1,5 +1,5 @@
-### Hi there, I'm KRISH JOSHI👋 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2356bcd9&center=true&vCenter=true&width=400&height=50&lines=Web+Developer;Competitive+Programmer;Freelancer;Content+Creator)](https://vaib.carrd.co)
+<h1>Hi there, I'm KRISH JOSHI 👋 <h1> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=50&color=%2356bcd9&center=true&vCenter=true&width=400&height=50&lines=Web+Developer;App+Developer;Full+stack+engineer;Competitive+Programmer;Freelancer;Content+Creator)](https://vaib.carrd.co)
 
 ## Pursuing BE-CSE from Chandigarh University!!
 
