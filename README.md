@@ -1,7 +1,7 @@
 ### <h1>Hi there, I'm KRISH JOSHI 👋 <h1> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=%2356bcd9&center=true&vCenter=true&width=400&height=50&lines=Web+Developer;Competitive+Programmer;App+Developer;Full+stack+Developer;Freelancer;Content+Creator)]
-<br>
+<hr>
 ## Pursuing BE-CSE from Chandigarh University!!
 
 # 💫About Me :
