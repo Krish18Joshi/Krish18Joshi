@@ -33,7 +33,7 @@
 
 ### [ MY PROJECTS ]
 
-1.[SUNSHINE WEATHER APP](https://krishweather.000webhostapp.com/ )
+1.[SUNSHINE WEATHER WEB APP](https://krishweather.000webhostapp.com/ )
 
 2.[PASSWORD GENERATOR](https://krish18joshi.github.io/Password-Generator/)
 
