@@ -4,7 +4,7 @@
 <hr>
 ## Pursuing BE-CSE from Chandigarh University!!
 
-# 💫About Me :
+# <h2> 💫About Me : </h2>
 🌏I feel very satisfied while doing our work. <br>
 🔭 I am very committed towards my projects.<br>
 🌏 I’m currently learning web development.<br>
