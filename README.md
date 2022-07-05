@@ -7,8 +7,9 @@
 
 
 # 💫 About Me:
+  <a href="https://github.com/"><img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="220"> </a>
 🔭 I’m currently working on FLUTTER <br>🌏I feel very satisfied while doing our work.<br>♟️ I am good in innovating special software to solve a problem while we work.<br>💻 I’m looking forward to collaborate with other creators and developers.<br>
-  <a href="https://github.com/"><img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="220"> </a>🥅 2022 Goals: Focus on developing my skills and exploring new things.<br>🍔 Fun fact: I don't know what's goin' to happen tomorrow so enjoy today.
+  🥅 2022 Goals: Focus on developing my skills and exploring new things.<br>🍔 Fun fact: I don't know what's goin' to happen tomorrow so enjoy today.
 
 
 ## 🌐 Socials:
