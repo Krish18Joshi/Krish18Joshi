@@ -26,9 +26,11 @@
 
 3.[ TIC TAC TOE  ](https://krish18joshi.github.io/Tic-Tac-Toe/)
 
-4.[Drum Kit ](https://krish18joshi.github.io/Drumkit-krish/)
+4.[STOCKZO](https://krish18joshi.github.io/STOCKZO/)
 
-5.[Dice Game](https://krish18joshi.github.io/dicegame/)
+5.[Drum Kit ](https://krish18joshi.github.io/Drumkit-krish/)
+
+6.[Dice Game](https://krish18joshi.github.io/dicegame/)
 
 
 [![](https://visitcount.itsvg.in/api?id=Krish18joshi&icon=0&color=1)](https://visitcount.itsvg.in)
