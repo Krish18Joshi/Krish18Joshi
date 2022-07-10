@@ -26,7 +26,7 @@
 
 3.[ TIC TAC TOE  ](https://krish18joshi.github.io/Tic-Tac-Toe/)
 
-4.[ TIC TAC TOE  ](https://sudoku-example-krish.netlify.app/)
+4.[SUDOKU SOLVER](https://sudoku-example-krish.netlify.app/)
 
 5.[Drum Kit ](https://krish18joshi.github.io/Drumkit-krish/)
   
