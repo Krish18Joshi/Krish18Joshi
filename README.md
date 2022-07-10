@@ -33,7 +33,7 @@
 6.[Dice Game](https://krish18joshi.github.io/dicegame/)
 
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8012851&style=0024&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>    
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Krish18joshi&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>
