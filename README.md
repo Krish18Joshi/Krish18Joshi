@@ -32,7 +32,7 @@
 
 6.[Dice Game](https://krish18joshi.github.io/dicegame/)
 
-<a href="https://www.freecounterstat.com" title="free website hit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=86p36bs6r4mtbb17bf2qkcdtuwgrddxx" border="0" title="free website hit counter" alt="free website hit counter"></a>
+  Visitor => <a href="https://www.freecounterstat.com" title="free website hit counter"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=86p36bs6r4mtbb17bf2qkcdtuwgrddxx" border="0" title="free website hit counter" alt="free website hit counter"></a>
 
 
 # 📊 GitHub Stats:
