@@ -20,6 +20,8 @@
 
 ### [ MY PROJECTS ]
 
+## [ WEB DEVELOPMENT ]
+
 1.[SUNSHINE WEATHER WEB APP](https://krishweather.netlify.app/)
 
 2.[PASSWORD GENERATOR](https://krish18joshi.github.io/Password-Generator/)
