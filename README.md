@@ -47,9 +47,9 @@
 
 
 # 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish 18Joshi&theme=radical)<br/>
-![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=Krish 18Joshi&theme=radical)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish 18Joshi&langs_count=8)](https://github.com/Krish18Joshi/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish18Joshi&theme=radical)<br/>
+![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=Krish18Joshi&theme=radical)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish18Joshi&langs_count=8)](https://github.com/Krish18Joshi/github-readme-stats)
 
 
   
