@@ -26,17 +26,19 @@
 
 2.[PASSWORD GENERATOR](https://krish18joshi.github.io/Password-Generator/)
 
-3.[ TIC TAC TOE  ](https://krish18joshi.github.io/Tic-Tac-Toe/)
+3.[TIC TAC TOE](https://krish18joshi.github.io/Tic-Tac-Toe/)
 
 4.[SUDOKU SOLVER](https://sudoku-example-krish.netlify.app/)
-
-5.[Drum Kit ](https://krish18joshi.github.io/Drumkit-krish/)
   
-6.[STOCKZO](https://krish18joshi.github.io/STOCKZO/)
+5.[SEARCH-BAR](https://searchbar-krishjoshi.netlify.app/)
 
-7.[Dice Game](https://krish18joshi.github.io/dicegame/)
+6.[Drum Kit](https://krish18joshi.github.io/Drumkit-krish/)
+  
+7.[STOCKZO](https://krish18joshi.github.io/STOCKZO/)
 
-8.[Tin Dog](https://krish18joshi.github.io/Tingdog/)
+8.[Dice Game](https://krish18joshi.github.io/dicegame/)
+
+9.[Tin Dog](https://krish18joshi.github.io/Tingdog/)
 
   Visitor <br> 
  <a  title="free counters for websites"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=8j7psy1hgcga48z14bytjd1fhp9q2hqe" border="0" title="free counters for websites" alt="free counters for websites"></a>
