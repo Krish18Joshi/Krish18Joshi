@@ -51,6 +51,14 @@
 ![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=Krish18joshi&theme=prussian&hide_border=false)<br/>
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish18joshi&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+  
+  <a href="https://github.com/Krish18Joshi/github-stats">
+<img src="https://github.com/Krish18Joshi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Krish18Joshi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/Krish18Joshi/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/Krish18Joshi/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
