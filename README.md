@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=40&color=%2356bcd9&width=600&height=60&lines=Web+Developer;Competitive+Programmer;App+Developer;Full+stack+Developer;Freelancer;Content+Creator)
 <hr>
 
-## [Pursuing BE-CSE from Chandigarh University!!]
+## Pursuing BE-CSE from Chandigarh University!!
 
 
 
