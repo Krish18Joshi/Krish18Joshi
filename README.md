@@ -49,7 +49,7 @@
 # 📊 GitHub Stats:
 ![Krish18Joshi GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish18Joshi&show_icons=true&theme=radical)<br/>
 ![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=Krish18joshi&theme=prussian&hide_border=false)<br/>
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish18joshi&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish18Joshi&langs_count=8)](https://github.com/Krish18Joshi/github-readme-stats)
 
   
   
