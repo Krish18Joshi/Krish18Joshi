@@ -40,9 +40,6 @@
 
 9.[Tin Dog](https://krish18joshi.github.io/Tingdog/)
 
-  Visitor <br> 
- <a  title="free counters for websites"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=8j7psy1hgcga48z14bytjd1fhp9q2hqe" border="0" title="free counters for websites" alt="free counters for websites"></a>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Krish18joshi&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>
