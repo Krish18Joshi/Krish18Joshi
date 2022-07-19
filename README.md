@@ -47,7 +47,7 @@
 
 
 # 📊 GitHub Stats:
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishJoshi&theme=dark)
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousgrids&theme=dark)
   
   
 ![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=Krish18joshi&theme=prussian&hide_border=false)<br/>
