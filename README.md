@@ -47,7 +47,7 @@
 
 ## :zap: GitHub Stats</summary>
 
- ![Krish18Joshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish18Joshi&count_private=true)
+[![Krish's github stats](https://github-readme-stats.vercel.app/api?username=Krish18Joshi)](https://github.com/Krish18Joshi/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish18Joshi&langs_count=8)](https://github.com/Krish18Joshi/github-readme-stats)
 
