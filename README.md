@@ -46,6 +46,14 @@
 1.[Calculator-Extension](https://github.com/Krish18Joshi/Calculator-Extension)
 
 
+# 📊 GitHub Stats:
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish18Joshi&theme=dark)
+  
+  
+![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=Krish18joshi&theme=prussian&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish18Joshi&langs_count=8)](https://github.com/Krish18Joshi/github-readme-stats)
+
+
   
   
 
