@@ -48,12 +48,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Krish Joshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Krish18Joshi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+ ![Krish18Joshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish18Joshi&count_private=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish18Joshi&langs_count=8)](https://github.com/Krish18Joshi/github-readme-stats)
 </details>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish18Joshi&langs_count=8)](https://github.com/Krish18Joshi/github-readme-stats)
 
 
   
