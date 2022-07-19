@@ -47,11 +47,11 @@
 
 
 # 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish Joshi&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishJoshi&theme=radical)
   
   
-![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=Krish Joshi&theme=radical)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish Joshi&langs_count=8)](https://github.com/Krish18Joshi/github-readme-stats)
+![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=KrishJoshi&theme=radical)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishJoshi&langs_count=8)](https://github.com/Krish18Joshi/github-readme-stats)
 
 
   
