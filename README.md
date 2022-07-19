@@ -45,13 +45,11 @@
 
 1.[Calculator-Extension](https://github.com/Krish18Joshi/Calculator-Extension)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## :zap: GitHub Stats</summary>
 
  ![Krish18Joshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish18Joshi&count_private=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish18Joshi&langs_count=8)](https://github.com/Krish18Joshi/github-readme-stats)
-</details>
 
 
 
