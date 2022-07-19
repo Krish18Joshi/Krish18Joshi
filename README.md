@@ -45,11 +45,12 @@
 
 1.[Calculator-Extension](https://github.com/Krish18Joshi/Calculator-Extension)
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-# 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish18Joshi&theme=radical)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krish18Joshi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-<br/>
+  <img align="left" alt="Krish Joshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Krish18Joshi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish18Joshi&langs_count=8)](https://github.com/Krish18Joshi/github-readme-stats)
