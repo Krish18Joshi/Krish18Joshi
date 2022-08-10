@@ -23,28 +23,28 @@
 
 #### [ WEB DEVELOPMENT ]
 
-1.[SUNSHINE WEATHER WEB APP](https://krishweather.netlify.app/)
+1. [SUNSHINE WEATHER WEB APP](https://krishweather.netlify.app/)
+ 
+2. [PASSWORD GENERATOR](https://krish18joshi.github.io/Password-Generator/)
 
-2.[PASSWORD GENERATOR](https://krish18joshi.github.io/Password-Generator/)
+3. [TIC TAC TOE](https://krish18joshi.github.io/Tic-Tac-Toe/)
 
-3.[TIC TAC TOE](https://krish18joshi.github.io/Tic-Tac-Toe/)
-
-4.[SUDOKU SOLVER](https://sudoku-example-krish.netlify.app/)
+4. [SUDOKU SOLVER](https://sudoku-example-krish.netlify.app/)
   
-5.[SEARCH-BAR](https://searchbar-krishjoshi.netlify.app/)
+5. [SEARCH-BAR](https://searchbar-krishjoshi.netlify.app/)
 
-6.[Drum Kit](https://krish18joshi.github.io/Drumkit-krish/)
+6. [Drum Kit](https://krish18joshi.github.io/Drumkit-krish/)
   
-7.[STOCKZO](https://krish18joshi.github.io/STOCKZO/)
+7. [STOCKZO](https://krish18joshi.github.io/STOCKZO/)
 
-8.[Dice Game](https://krish18joshi.github.io/dicegame/)
+8. [Dice Game](https://krish18joshi.github.io/dicegame/)
 
-9.[Tin Dog](https://krish18joshi.github.io/Tingdog/)
+9. [Tin Dog](https://krish18joshi.github.io/Tingdog/)
 
 #### [ CHROME EXTENSION DEVELOPMENT ]
 
-1.[Calculator-Extension](https://github.com/Krish18Joshi/Calculator-Extension)<br>
-2.[Short-Quotes-Extension](https://github.com/Krish18Joshi/Short-Quotes-Extension)
+1. [Calculator-Extension](https://github.com/Krish18Joshi/Calculator-Extension)<br>
+2. [Short-Quotes-Extension](https://github.com/Krish18Joshi/Short-Quotes-Extension)
 
 ## :zap: GitHub Stats</summary>
 
