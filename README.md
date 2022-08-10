@@ -44,6 +44,7 @@
 #### [ CHROME EXTENSION DEVELOPMENT ]
 
 1.[Calculator-Extension](https://github.com/Krish18Joshi/Calculator-Extension)
+2.[Short-Quotes-Extension](https://github.com/Krish18Joshi/Short-Quotes-Extension)
 
 ## :zap: GitHub Stats</summary>
 
