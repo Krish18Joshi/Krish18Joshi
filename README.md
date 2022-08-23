@@ -31,17 +31,17 @@
 
 4. [SUDOKU SOLVER](https://sudoku-example-krish.netlify.app/)
   
-5. [Cybernated](https://finance-cryptotracker.netlify.app/)
+5. [CYBERNATED](https://finance-cryptotracker.netlify.app/)
 
 6. [SEARCH-BAR](https://searchbar-krishjoshi.netlify.app/)
   
-7. [Drum Kit](https://krish18joshi.github.io/Drumkit-krish/)
+7. [DRUM KIT](https://krish18joshi.github.io/Drumkit-krish/)
 
-8. [Dice Game](https://krish18joshi.github.io/dicegame/)
+8. [DICE GAME](https://krish18joshi.github.io/dicegame/)
 
 9. [STOCKZO](https://krish18joshi.github.io/STOCKZO/)
 
-10. [Tin Dog](https://krish18joshi.github.io/Tingdog/)
+10. [TIN DOG](https://krish18joshi.github.io/Tingdog/)
 
 #### [ CHROME EXTENSION DEVELOPMENT ]
 
