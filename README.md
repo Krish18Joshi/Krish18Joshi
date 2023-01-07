@@ -48,14 +48,15 @@
 1. [Calculator-Extension](https://github.com/Krish18Joshi/Calculator-Extension)<br>
 2. [Short-Quotes-Extension](https://github.com/Krish18Joshi/Short-Quotes-Extension)
 
-## :zap: GitHub Stats</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish18Joshi&langs_count=8)](https://github.com/Krish18Joshi/github-readme-stats)
-
-
-
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Krish18Joshi&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Krish18Joshi&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish18Joshi&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=Krish18joshi&label=Profile%20Views%20&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
+---
+
+
 
   
 
