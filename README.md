@@ -25,7 +25,7 @@
 
 1. [SUNSHINE WEATHER WEB APP](https://krishweather.netlify.app/)
  
-2. [PASSWORD GENERATOR](https://krish18joshi.github.io/Password-Generator/)
+2. [MOVLIT](https://movlit-krishjoshi.netlify.app/)
 
 3. [TIC TAC TOE](https://krish18joshi.github.io/Tic-Tac-Toe/)
 
@@ -33,7 +33,7 @@
   
 5. [CYBERNATED](https://finance-cryptotracker.netlify.app/)
 
-6. [SEARCH-BAR](https://searchbar-krishjoshi.netlify.app/)
+6. [PASSWORD GENERATOR](https://krish18joshi.github.io/Password-Generator/)
   
 7. [DRUM KIT](https://krish18joshi.github.io/Drumkit-krish/)
 
@@ -43,7 +43,7 @@
 
 10. [TIN DOG](https://krish18joshi.github.io/Tingdog/)
   
-11. [MOVLIT](https://movlit-krishjoshi.netlify.app/)
+11. [SEARCH-BAR](https://searchbar-krishjoshi.netlify.app/)
 
 #### [ CHROME EXTENSION DEVELOPMENT ]
 
