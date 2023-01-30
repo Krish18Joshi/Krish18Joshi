@@ -23,9 +23,9 @@
 
 #### [ WEB DEVELOPMENT ]
 
-1. [SUNSHINE WEATHER WEB APP](https://krishweather.netlify.app/)
+1. [MOVLIT](https://movlit-krishjoshi.netlify.app/)
  
-2. [MOVLIT](https://movlit-krishjoshi.netlify.app/)
+2. [SUNSHINE WEATHER WEB APP](https://krishweather.netlify.app/)
 
 3. [TIC TAC TOE](https://krish18joshi.github.io/Tic-Tac-Toe/)
 
