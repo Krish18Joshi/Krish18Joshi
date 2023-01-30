@@ -42,6 +42,8 @@
 9. [STOCKZO](https://krish18joshi.github.io/STOCKZO/)
 
 10. [TIN DOG](https://krish18joshi.github.io/Tingdog/)
+  
+11. [MOVLIT](https://movlit-krishjoshi.netlify.app/)
 
 #### [ CHROME EXTENSION DEVELOPMENT ]
 
