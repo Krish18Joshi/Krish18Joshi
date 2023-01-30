@@ -23,27 +23,29 @@
 
 #### [ WEB DEVELOPMENT ]
 
-1. [MOVLIT](https://movlit-krishjoshi.netlify.app/)
+1. [KRISH JOSHI PORTFOLIO](https://krish-joshi-6a7d4.web.app)
+  
+2. [MOVLIT](https://movlit-krishjoshi.netlify.app/) 
  
-2. [SUNSHINE WEATHER WEB APP](https://krishweather.netlify.app/)
+3. [SUNSHINE WEATHER WEB APP](https://krishweather.netlify.app/)
 
-3. [TIC TAC TOE](https://krish18joshi.github.io/Tic-Tac-Toe/)
+4. [TIC TAC TOE](https://krish18joshi.github.io/Tic-Tac-Toe/)
 
-4. [SUDOKU SOLVER](https://sudoku-example-krish.netlify.app/)
+5. [SUDOKU SOLVER](https://sudoku-example-krish.netlify.app/)
   
-5. [CYBERNATED](https://finance-cryptotracker.netlify.app/)
+6. [CYBERNATED](https://finance-cryptotracker.netlify.app/)
 
-6. [PASSWORD GENERATOR](https://krish18joshi.github.io/Password-Generator/)
+7. [PASSWORD GENERATOR](https://krish18joshi.github.io/Password-Generator/)
   
-7. [DRUM KIT](https://krish18joshi.github.io/Drumkit-krish/)
+8. [DRUM KIT](https://krish18joshi.github.io/Drumkit-krish/)
 
-8. [DICE GAME](https://krish18joshi.github.io/dicegame/)
+9. [DICE GAME](https://krish18joshi.github.io/dicegame/)
 
-9. [STOCKZO](https://krish18joshi.github.io/STOCKZO/)
+10. [STOCKZO](https://krish18joshi.github.io/STOCKZO/)
 
-10. [TIN DOG](https://krish18joshi.github.io/Tingdog/)
+11. [TIN DOG](https://krish18joshi.github.io/Tingdog/)
   
-11. [SEARCH-BAR](https://searchbar-krishjoshi.netlify.app/)
+12. [SEARCH-BAR](https://searchbar-krishjoshi.netlify.app/)
 
 #### [ CHROME EXTENSION DEVELOPMENT ]
 
