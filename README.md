@@ -54,7 +54,7 @@
 
 ### [ BLOCJCHAIN DEVELOPMENT ]
 
-1. [Blockchain-Messenger] (https://github.com/Krish18Joshi/My-First-Blockchain-messenger)<br>
+1. [ Blockchain-Messenger ](https://github.com/Krish18Joshi/My-First-Blockchain-messenger)<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Krish18Joshi&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
