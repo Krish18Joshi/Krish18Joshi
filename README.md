@@ -25,7 +25,7 @@
 
 1. [KRISH JOSHI PORTFOLIO](https://krish-joshi-6a7d4.web.app)
   
-2. [MOVLIT](https://movlit-krishjoshi.netlify.app/)
+2. [MOVLIT](https://movlit-c793b.web.app/)
 
 3. [Where's my money](https://foodiexpress.cyclic.app/)
 
