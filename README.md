@@ -23,13 +23,13 @@
 
 #### [ WEB DEVELOPMENT ]
 
-1. [KRISH JOSHI PORTFOLIO](https://krish-joshi-6a7d4.web.app)
+1. [KRISH JOSHI PORTFOLIO](https://krishjoshi.tech)
   
 2. [MOVLIT](https://movlit-c793b.web.app/)
 
-3. [Where's my money](https://foodiexpress.cyclic.app/)
+3. [Where's my money](https://where-s-my-money-18.web.app/)
 
-4. [Foodiexpress](https://where-s-my-money-18.web.app/)
+4. [Foodiexpress](https://foodiexpress.cyclic.app/)
  
 5. [SUNSHINE WEATHER WEB APP](https://krishweather.netlify.app/)
 
