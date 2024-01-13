@@ -29,7 +29,7 @@
 
 3. [Where's my money](https://where-s-my-money-18.web.app/)
 
-4. [Foodiexpress](https://foodieexpress-lrm0.onrender.com/Home)
+4. [Foodiexpress](https://foodieexpress-lrm0.onrender.com/)
  
 5. [SUNSHINE WEATHER WEB APP](https://krishweather.netlify.app/)
 
