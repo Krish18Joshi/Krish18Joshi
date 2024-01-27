@@ -21,6 +21,9 @@
 
 ## [ MY PROJECTS ]
 
+#### [ DATA SCIENCE ]
+1. [TABLEAU](https://github.com/Krish18Joshi/Tableau/tree/main)
+
 #### [ WEB DEVELOPMENT ]
 
 1. [KRISH JOSHI PORTFOLIO](https://krishjoshi.tech)
@@ -68,9 +71,6 @@
   [![](https://visitcount.itsvg.in/api?id=Krish18joshi&label=Profile%20Views%20&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 ---
-
-
-
   
 
 ### ✍️ Random Dev Quote
