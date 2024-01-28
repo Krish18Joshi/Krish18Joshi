@@ -22,7 +22,13 @@
 ## [ MY PROJECTS ]
 
 #### [ DATA SCIENCE ]
-1. [TABLEAU](https://github.com/Krish18Joshi/Tableau/tree/main)
+
+#####[TABLEAU]
+1. [Super Store Sales Analysis Dashboard](https://github.com/Krish18Joshi/Tableau/tree/main)
+2. [Covid 19 Analysis Dashboard](https://github.com/Krish18Joshi/Tableau/tree/main)
+
+#####[PYTHON]
+1. [IMS](https://github.com/Krish18Joshi/Inventory_Management_System/blob/main/README.md)
 
 #### [ WEB DEVELOPMENT ]
 
