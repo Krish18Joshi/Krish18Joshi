@@ -28,7 +28,8 @@
 2. [Covid 19 Analysis Dashboard](https://github.com/Krish18Joshi/COVID-19-DASHBOARD/blob/main/README.md)
 
 #### PYTHON
-1. [IMS](https://github.com/Krish18Joshi/Inventory_Management_System/blob/main/README.md)
+1. [IMS {FILE DATA}](https://github.com/Krish18Joshi/Inventory_Management_System/blob/main/README.md)
+2. [IMS {JSON DATA}](https://github.com/Krish18Joshi/Inventory_Management_System_with_json/tree/main)
 
 ### WEB DEVELOPMENT 
 
