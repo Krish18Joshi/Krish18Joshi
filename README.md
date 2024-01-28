@@ -21,16 +21,16 @@
 
 ## [ MY PROJECTS ]
 
-#### [ DATA SCIENCE ]
+### [ DATA SCIENCE ]
 
-##### [TABLEAU]
+#### [TABLEAU]
 1. [Super Store Sales Analysis Dashboard](https://github.com/Krish18Joshi/Super-Store-Sales-Analysis-Dashboard/blob/main/README.md)
 2. [Covid 19 Analysis Dashboard](https://github.com/Krish18Joshi/COVID-19-DASHBOARD/blob/main/README.md)
 
-##### [PYTHON]
+#### [PYTHON]
 1. [IMS](https://github.com/Krish18Joshi/Inventory_Management_System/blob/main/README.md)
 
-#### [ WEB DEVELOPMENT ]
+### [ WEB DEVELOPMENT ]
 
 1. [KRISH JOSHI PORTFOLIO](https://krishjoshi.tech)
   
@@ -60,12 +60,12 @@
   
 14. [SEARCH-BAR](https://searchbar-krishjoshi.netlify.app/)
 
-#### [ CHROME EXTENSION DEVELOPMENT ]
+### [ CHROME EXTENSION DEVELOPMENT ]
 
 1. [Calculator-Extension](https://github.com/Krish18Joshi/Calculator-Extension)<br>
 2. [Short-Quotes-Extension](https://github.com/Krish18Joshi/Short-Quotes-Extension)
 
-#### [ BLOCKCHAIN DEVELOPMENT ]
+### [ BLOCKCHAIN DEVELOPMENT ]
 
 1. [ Blockchain-Messenger ](https://github.com/Krish18Joshi/My-First-Blockchain-messenger)<br>
 
