@@ -24,8 +24,8 @@
 #### [ DATA SCIENCE ]
 
 ##### [TABLEAU]
-1. [Super Store Sales Analysis Dashboard](https://github.com/Krish18Joshi/Tableau/tree/main)
-2. [Covid 19 Analysis Dashboard](https://github.com/Krish18Joshi/Tableau/tree/main)
+1. [Super Store Sales Analysis Dashboard](https://github.com/Krish18Joshi/Super-Store-Sales-Analysis-Dashboard/blob/main/README.md)
+2. [Covid 19 Analysis Dashboard](https://github.com/Krish18Joshi/COVID-19-DASHBOARD/blob/main/README.md)
 
 ##### [PYTHON]
 1. [IMS](https://github.com/Krish18Joshi/Inventory_Management_System/blob/main/README.md)
