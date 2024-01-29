@@ -31,6 +31,9 @@
 1. [IMS {FILE DATA}](https://github.com/Krish18Joshi/Inventory_Management_System/blob/main/README.md)
 2. [IMS {JSON DATA}](https://github.com/Krish18Joshi/Inventory_Management_System_with_json/tree/main)
 
+#### Machine Learning || Artificial Intelligence
+1. [Sentiment_Analysis](https://github.com/Krish18Joshi/Sentiment_Analysis_Krish_joshi)
+
 ### WEB DEVELOPMENT 
 
 1. [KRISH JOSHI PORTFOLIO](https://krishjoshi.tech)
